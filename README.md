@@ -26,6 +26,7 @@
 |--------|---------|-------------|
 | [🟡 Fundamentals](#fundamentals) | Sprints 1–2 | HTML, CSS, JS Básico |
 | [🟠 Git + JS Avanzado](#git-js-avanzado) | Sprints 3-4 | Git, ES6+, DOM, Fetch, APIs |
+| [🔴 JS Moderno + Asincronía](#git-js-avanzado) | Sprints 5-6 | Destructuring, Spread, bucles avanzados y asincronía |
 
 ---
 
@@ -105,6 +106,29 @@
 
 - [📄 Ver Manual DOM](https://drive.google.com/file/d/1losqG3k1dJkW4zxhjtcFnffIA0ClHCC3/view)
 - [📄 Ver Cheatsheet DOM](https://drive.google.com/file/d/1khIEXikMPUWdfeEFyEwPl7AcI_qTuMF0/view)
+
+</details>
+
+<a name="git-js-avanzado"></a>
+### 🔴 JS Moderno + Asincronía
+<details>
+<summary><strong>🚀 Sprint 5 · JS Moderno</strong></summary>
+
+### [JS Moderno](./04_JS_Moderno/sprint_5/)
+- Destructuracion, spread operator y Local Storage
+
+- [📄 Ver Manual JS Moderno](https://drive.google.com/file/d/17NAKa0NJgjiRNXHSsMlode8cM3hg1wuP/view)
+- [📄 Ver Cheatseet JS Moderno](https://drive.google.com/file/d/1jHjBRY9FtEokP8BUx01sYRcVdlbM-lvE/view)
+
+<details>
+<summary><strong>🚀 Sprint 6 · Asincronía</strong></summary>
+
+### [Asincronía](./04_JS_Moderno/sprint_6/)
+
+- Asinconía + APIs
+
+- [📄 Ver Manual Asincronía](https://drive.google.com/file/d/1NcD8IpIzefRoPHe5vECRgHfvv9yZ1Quy/view)
+- [📄 Ver Cheatsheet Asincronía](https://drive.google.com/file/d/1kay3htsAqSIyXNnfxxqCJJ2VVDgejPd2/view)
 
 </details>
 
