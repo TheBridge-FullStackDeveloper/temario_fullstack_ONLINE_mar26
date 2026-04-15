@@ -2,8 +2,14 @@
 
 A continuación, encontrarás una lista de ejercicios de Manejo del DOM:
 
+## 📚 Workout
 
-### Live coding:
+Ejercicio                                                                                |                Resuelto   | 
+| ---------------------------------------------------------------------------------------|---------------------------|
+| 1. [DOM](https://stackblitz.com/edit/3-2-3-js-dom-eventos-ejercicio?file=index.html)   | [✅](https://stackblitz.com/edit/3-2-3-js-dom-eventos-ejercicio-angbcgud?file=index.html)   |
+
+## 🚀 Live Coding
+
 
 | 📚 Turno de mañana                                                                                                |       Resuelto            |
 | -------------------------------------------------------------------------------------------------------------------------|---------------------------|
