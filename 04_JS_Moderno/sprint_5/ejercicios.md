@@ -21,7 +21,7 @@ Ejercicio                |                Resuelto   |
 | 📚 Turno de tarde                                                                                                |       Resuelto            |
 | -------------------------------------------------------------------------------------------------------------------------|---------------------------|
 | 1. [Live Coding I - Primera Parte](https://stackblitz.com/edit/stackblitz-starters-jme4r7mu?file=css%2Fstyles.css)                                           |  [✅](https://stackblitz.com/edit/stackblitz-starters-jme4r7mu?file=css%2Fstyles.css)      |
-| 2. [Live Coding I - Segunda](https://stackblitz.com/edit/stackblitz-starters-jme4r7mu?file=script.js)                                           |  [✅](https://stackblitz.com/edit/stackblitz-starters-jme4r7mu?file=script.js)      |
+| 2. [Live Coding I - Segunda Parte](https://stackblitz.com/edit/stackblitz-starters-jme4r7mu?file=script.js)                                           |  [✅](https://stackblitz.com/edit/stackblitz-starters-jme4r7mu?file=script.js)      |
 | 3. [Live Coding II](https://stackblitz.com/edit/stackblitz-starters-pvbqp5jp?file=js%2Fscript.js)                                           |  [✅](https://stackblitz.com/edit/stackblitz-starters-pvbqp5jp?file=js%2Fscript.js)      |
 
 
