@@ -27,6 +27,7 @@
 | [🟡 Fundamentals](#fundamentals) | Sprints 1–2 | HTML, CSS, JS Básico |
 | [🟠 Git + JS Avanzado](#git-js-avanzado) | Sprints 3-4 | Git, ES6+, DOM, Fetch, APIs |
 | [🔴 JS Moderno + Asincronía](#git-js-moderno) | Sprints 5-6 | Destructuring, Spread, bucles avanzados y asincronía |
+🔵 [Backend](#backend) | Sprint 7–12 | Node, Express, SQL, MongoDB |
 
 ---
 
@@ -131,6 +132,31 @@
 
 - [📄 Ver Manual Asincronía](https://drive.google.com/file/d/1NcD8IpIzefRoPHe5vECRgHfvv9yZ1Quy/view)
 - [📄 Ver Cheatsheet Asincronía](https://drive.google.com/file/d/1kay3htsAqSIyXNnfxxqCJJ2VVDgejPd2/view)
+
+</details>
+
+<a name="backend"></a>
+### 🔵 Backend
+<details>
+<summary><strong>🚀 Sprint 7 · Node, Express, Routes</strong></summary>
+
+- Que es Node.js, Express y Rutas
+
+- [📄 Ver Manual Node](https://drive.google.com/file/d/1KKBtb-CRgy-9fzytN5v2_I_bhprxPvZj/view?pli=1)
+- [📄 Ver Cheatseet Node](https://drive.google.com/file/d/1jFfcOm_joRjctAGCV5mtBmwSjhetbTPZ/view)
+- [📄 Ver Manual Express + Routes](https://drive.google.com/file/d/18yaob3YYIN4kfvNHqqtHVEHYKQD6rX4A/view)
+- [📄 Ver Cheatseet Express + Routes](https://drive.google.com/file/d/14-UUEdDK3RPJxhLKFbINy1ztk0YDdMIo/view)
+
+</details>
+<details>
+
+<summary><strong>🚀 Sprint 8 · Controladores, Servicios, CRUD</strong></summary>
+
+
+- Controladores, Servicios y CRUD
+
+- [📄 Ver Manual Controllers, Services, CRUD](https://drive.google.com/file/d/1lOP3cuvsPuumyiWKbCuJoITgLylLxbsB/view)
+- [📄 Ver Cheatsheet Controllers, Services, CRUD](https://drive.google.com/file/d/1bm_WYTIMCzoAVedZ1ApZZXSIIF0sCSvs/view)
 
 </details>
 
