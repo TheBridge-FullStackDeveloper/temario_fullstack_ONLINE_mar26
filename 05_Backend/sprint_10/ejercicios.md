@@ -8,6 +8,10 @@ A continuación, encontrarás una lista de ejercicios de Middlewares, JWT y Bcry
 | 📚 Turno de mañana                                                                                                |       Resuelto            |
 | -------------------------------------------------------------------------------------------------------------------------|---------------------------|
 | 1. [Live Coding I](https://github.com/Reyeslim/clase-bcrypt-1)                                           |  [✅](https://github.com/Reyeslim/clase-bcrypt-1)      |
+| 2. [Live Coding II - Back](https://github.com/Reyeslim/clase-cors-helmet)                                           |  [✅](https://github.com/Reyeslim/clase-cors-helmet)      |
+| 3. [Live Coding II - Front](https://github.com/Reyeslim/clase-cors-helmet-front)                                           |  [✅](https://github.com/Reyeslim/clase-cors-helmet-front)      |
+
+
 
 | 📚 Turno de tarde                                                                                                |       Resuelto            |
 | -------------------------------------------------------------------------------------------------------------------------|---------------------------|
