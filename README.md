@@ -184,4 +184,28 @@
 - [📄 Ver Cheatsheet JWT + BCRYPT](https://drive.google.com/file/d/1N5pKU8GPc7TEcEIDS0-H-XXapOtB-DAQ/view)
 
 </details>
+
+<details>
+
+<summary><strong>🚀 Sprint 11 · MongoDB y testing</strong></summary>
+
+### [MongoDB y testing](./05_Backend/sprint_11)
+
+- [📄 Ver Manual MongoDB](https://drive.google.com/file/d/11QU_hgWSNomV6TZXfdn7HmKgy99o0jSi/view)
+- [📄 Ver Cheatsheet MongoDB](https://drive.google.com/file/d/181cYpnjnXClrhpwHWCFZ5lTBKsmgL5vi/view)
+- [📄 Ver Manual Jest](https://drive.google.com/file/d/1FuQxaoR3ID_8GtFqWxZ5T-P8BGphlRRI/view)
+- [📄 Ver Cheatsheet Jest](https://drive.google.com/file/d/1cQTF0bHFGPqXOsZAsLBh1g1jOEJN54L1/view)
+
+</details>
+
+<details>
+
+<summary><strong>🚀 Sprint 12 · Documentación y despliegue</strong></summary>
+
+### [Documentación y despliegue](./05_Backend/sprint_12)
+
+- [📄 Ver Manual Swagger](https://drive.google.com/file/d/1N9PrpiWXazpKdcnOIK0JuRwcciiTEAM7/view)
+- [📄 Ver Manual Swagger + JSDOC](https://drive.google.com/file/d/1DHW1CR-RyYXwgH8f_BlstKoaKuV_FJY7/view)
+
+</details>
 ---
