@@ -15,7 +15,7 @@ A continuación, encontrarás una lista de ejercicios de Middlewares, JWT y Bcry
 
 | 📚 Turno de tarde                                                                                                |       Resuelto            |
 | -------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 1. [Live Coding II](https://github.com/Proposals-Ideas-TB/bcrypt-n-jwt)                                           |  [✅](https://github.com/Proposals-Ideas-TB/bcrypt-n-jwt)      |
+| 1. [Live Coding I - II](https://github.com/Proposals-Ideas-TB/bcrypt-n-jwt)                                           |  [✅](https://github.com/Proposals-Ideas-TB/bcrypt-n-jwt)      |
 
 
 
