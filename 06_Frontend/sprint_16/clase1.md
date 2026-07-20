@@ -103,7 +103,7 @@ export const store = configureStore({
 
 ## Sincronización con el backend
 
-Aunque el carrito y la wishlist viven en el estado global, es habitual persistirlos en el backend (por ejemplo, con Supabase) para que el usuario no los pierda al recargar la página o cambiar de dispositivo.
+Aunque el carrito y la wishlist viven en el estado global, es habitual persistirlos en el backend (por ejemplo, con Supabase) para que el usuario no los pierda al recargar o cambiar de dispositivo.
 
 ```jsx
 import { useEffect } from "react";
