@@ -233,5 +233,24 @@
 - [📄 Ver Cheatseet useEffect y useRef](https://drive.google.com/file/d/1yK3mb1EH8RlhEHtBbxiFlIqxk64TorwI/view)
 
 </details>
+<details>
+<summary><strong>🚀 Sprint 15 · REDUX</strong></summary>
+
+### [¿Qué es REDUX?](./06_Frontend/sprint_15/)
+
+- [📄 Ver Manual REDUX](https://drive.google.com/file/d/1DqdqVMWR5xNO_i9CuUvrwWTQwTiGuAit/view)
+- [📄 Ver Cheatseet REDUX](https://drive.google.com/file/d/1iE9Tt4Jfg9bWc0gaeAmkaUYyYNmHDICm/view)
+
+</details>
+
+<details>
+<summary><strong>🚀 Sprint 16 · useMemo + otros hooks y despliegue</strong></summary>
+
+### [Asincronía, useEffect y useRef](./06_Frontend/sprint_16/)
+
+- [📄 Ver Manual Otros Hooks](https://drive.google.com/file/d/1tQmzNyydP7Bl8qvXQxnBWPsIDo6w7nrq/view)
+- [📄 Ver Cheatseet otros Hooks](https://drive.google.com/file/d/10odq1-TEolhzHNgtxnXV7wfGdhdsBO6i/view)
+
+</details>
 
 ---
