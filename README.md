@@ -246,7 +246,7 @@
 <details>
 <summary><strong>🚀 Sprint 16 · useMemo + otros hooks y despliegue</strong></summary>
 
-### [Asincronía, useEffect y useRef](./06_Frontend/sprint_16/)
+### [useMemo + otros hooks y despliegue](./06_Frontend/sprint_16/)
 
 - [📄 Ver Manual Otros Hooks](https://drive.google.com/file/d/1tQmzNyydP7Bl8qvXQxnBWPsIDo6w7nrq/view)
 - [📄 Ver Cheatseet otros Hooks](https://drive.google.com/file/d/10odq1-TEolhzHNgtxnXV7wfGdhdsBO6i/view)
