@@ -13,6 +13,7 @@ A continuación, encontrarás una lista de ejercicios de React:
 | 📚 Turno de tarde                                                                                              |       Resuelto            |
 | -------------------------------------------------------------------------------------------------------------------------|---------------------------|
 | 1. [Live Coding I](https://stackblitz.com/edit/vitejs-vite-lcg2t5ug?file=index.html&terminal=dev)                                           |  [✅](https://stackblitz.com/edit/vitejs-vite-lcg2t5ug?file=index.html&terminal=dev)      |
+| 2. [Live Coding II](https://stackblitz.com/edit/vitejs-vite-c1u6ntxg?file=index.htmlStackBlitz)                                           |  [✅](https://stackblitz.com/edit/vitejs-vite-c1u6ntxg?file=index.htmlStackBlitz)      |
 
 
 
